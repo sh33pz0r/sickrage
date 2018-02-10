@@ -5,4 +5,4 @@ deployment:
       - $DOCKER_HUB_TRIGGER
 test:
   override:
-    - echo "sickrage"
+    - echo "sickrage-new"
